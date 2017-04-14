@@ -73,6 +73,7 @@ Assumptions:
 7. If it is anything else other 200, only the 'html code' is printed with the error code
 
 
+
 ----------------------------Hierarchy---------------------
 Assignment
 	|----README
@@ -80,6 +81,7 @@ Assignment
 	|----client.py
 	|----Download
 	|----server.py
+
 
 
 ----------------Python Version: 2.7.10 -------------------
