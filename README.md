@@ -1,4 +1,5 @@
 --------------------------------server.py-----------------------
+
 Assumptions:
 ------------
 1. First line is the "Http Request" Line, latter ones are the "Headers"
@@ -79,6 +80,7 @@ Assignment
 	|----client.py
 	|----Download
 	|----server.py
+
 
 ----------------Python Version: 2.7.10 -------------------
 
